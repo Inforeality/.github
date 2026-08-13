@@ -10,6 +10,12 @@ A PowerShell-based identity audit sample for Microsoft Active Directory and Entr
 
 [View the repository](https://github.com/Inforeality/ad-entra-identity-audit) · [Read the sanitized technical writing sample](https://github.com/Inforeality/ad-entra-identity-audit/blob/main/docs/WRITING-SAMPLE.md)
 
+### Complementary toolkits
+
+- [M365 Identity Automation](https://github.com/Inforeality/m365-identity-automation) — report-first Microsoft Graph and PowerShell utilities for identity lifecycle, access, license, guest, MFA, and session review.
+- [Intune Migration Toolkit](https://github.com/Inforeality/intune-migration-toolkit) — non-destructive Windows endpoint readiness collectors for Intune and Autopilot migration planning.
+- [Non-Human Identity Governance Lab](https://github.com/Inforeality/nonhuman-identity-governance-lab) — an experimental local reference model for service, application, managed, and agent identity governance.
+
 ## Core areas
 
 - Enterprise identity, IAM, and identity security
